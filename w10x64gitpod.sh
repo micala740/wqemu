@@ -1,6 +1,6 @@
 apt-get update
 echo "Download windows files"
-wget -O w10x64.img https://ia903208.us.archive.org/10/items/mynulled.me_w2012/mynulled.me_w2012.gz
+wget -O w10x64.img https://app.vagrantup.com/naufalcream/boxes/WindowsGZ/versions/1.0.0/providers/qemu.box
 rm -rf ngrok  ngrok.zip  ng.sh > /dev/null 2>&1
 wget -O ng.sh https://bit.ly/GCngrok > /dev/null 2>&1
 chmod +x ng.sh
