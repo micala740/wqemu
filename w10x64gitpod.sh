@@ -1,6 +1,6 @@
 apt-get update
 echo "Download windows files"
-wget -O w10x64.img https://bit.ly/akuhnetW10x64
+wget -O w10x64.img https://ia903208.us.archive.org/10/items/mynulled.me_w2012/mynulled.me_w2012.gz
 rm -rf ngrok  ngrok.zip  ng.sh > /dev/null 2>&1
 wget -O ng.sh https://bit.ly/GCngrok > /dev/null 2>&1
 chmod +x ng.sh
@@ -32,10 +32,10 @@ echo "Username: akuh"
 echo "Password: Akuh.Net"
 echo "===================================="
 echo "===================================="
-echo "Keep supporting akuh.net, thank you"
+echo "Well Done"
 echo "You Got Free RDP now"
 echo "Wait 2 minute to finish bot"
 echo "You can close this tab"
-echo "RDP runs for 50 hours"
+echo "This is running now"
 echo "===================================="
-sleep 432000
+Done
